@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="Calculator">My Calculator</string>
+    <string name="First_number">Enter the First Number</string>
+    <string name="Result">Result</string>
+    <string name="Second_number">Enter the Second Number</string>
+    <string name="Addition">Addition</string>
+    <string name="Substrtion">Substration</string>
+    <string name="Developer_name">Developed By Nitesh Pandit</string>
+    <string name="Multification">Multifiation</string>
+    <string name="Division">Division</string>
+</resources>
